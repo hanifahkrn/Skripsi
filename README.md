@@ -11,5 +11,5 @@ Prediktabilitas Nilai Tukar Rupiah terhadap Dolar AS Menggunakan XGBoost: Perban
 
 ## 📚 Struktur Repository
 - `Syntax.ipynb` : Notebook analisis
-- `data.csv` : Dataset penelitian
+- `Data Penelitian.csv` : Dataset penelitian
 - `README.md` : Deskripsi repository
